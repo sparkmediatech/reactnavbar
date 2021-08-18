@@ -136,7 +136,7 @@
     font-size: 18px;
   }
   .mainItem-container {
-    flex-direction: column;
+    flex-direction: row;
   }
   .sidebarList {
     flex-direction: row;
