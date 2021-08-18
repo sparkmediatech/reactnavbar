@@ -100,7 +100,7 @@
   }
 
   .itemLabel {
-    font-size: 10px;
+    font-size: 12px;
     margin-top: 3px;
     margin-left: 5px;
     margin-top: 20px;
@@ -110,7 +110,7 @@
   }
   .sideBarMenu {
     color: #2b2b2b;
-    font-size: 10px;
+    font-size: 12px;
   }
   .mainItem-container {
     flex-direction: row;
