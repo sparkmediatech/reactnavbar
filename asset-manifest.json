@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactnavbar/static/css/main.30f5269f.chunk.css",
+    "main.js": "/reactnavbar/static/js/main.59174d90.chunk.js",
+    "main.js.map": "/reactnavbar/static/js/main.59174d90.chunk.js.map",
+    "runtime-main.js": "/reactnavbar/static/js/runtime-main.23a17caf.js",
+    "runtime-main.js.map": "/reactnavbar/static/js/runtime-main.23a17caf.js.map",
+    "static/js/2.9ccb8378.chunk.js": "/reactnavbar/static/js/2.9ccb8378.chunk.js",
+    "static/js/2.9ccb8378.chunk.js.map": "/reactnavbar/static/js/2.9ccb8378.chunk.js.map",
+    "index.html": "/reactnavbar/index.html",
+    "static/css/main.30f5269f.chunk.css.map": "/reactnavbar/static/css/main.30f5269f.chunk.css.map",
+    "static/js/2.9ccb8378.chunk.js.LICENSE.txt": "/reactnavbar/static/js/2.9ccb8378.chunk.js.LICENSE.txt",
+    "static/media/phone.94a7a4fe.svg": "/reactnavbar/static/media/phone.94a7a4fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23a17caf.js",
+    "static/js/2.9ccb8378.chunk.js",
+    "static/css/main.30f5269f.chunk.css",
+    "static/js/main.59174d90.chunk.js"
+  ]
+}
