@@ -276,7 +276,7 @@
   }
 }
 /* mobile*/
-@media (max-width: 500px) {
+@media screen and (max-width: 500px) {
   .tect-container {
     width: 80%;
     padding: 0 0px;
@@ -297,7 +297,7 @@
     font-size: 40px;
   }
 }
-@media (max-width: 400px) and (min-width: 320px) {
+@media screen and (min-width: 320px) {
   .tect-container {
     width: 90%;
     align-items: center;
