@@ -64,10 +64,10 @@ useEffect(() => {
 
             </div>
             </div>
-            <div className='container' >
-                <div className='header'  >
-                    <h2 className='title'>Stripe Demo</h2>
-                    <ul className='navBar'>
+        <div className='container' >
+            <div className='header'  >
+                <h2 className='title'>Stripe Demo</h2>
+                <ul className='navBar'>
                     <li onMouseOver={displaySubMenu} >Products</li>
                    <li onMouseOver={displaySubMenu}>Developers</li>
                     <li onMouseOver={displaySubMenu}>Company</li>
@@ -75,10 +75,10 @@ useEffect(() => {
                 </ul>
                 
 
-                </div>
+            </div>
                 
                 
-                <div className={isModuleOpen ? 'navModule': 'hideNavModule'} ref={subMenuContainer}>
+            <div className={isModuleOpen ? 'navModule': 'hideNavModule'} ref={subMenuContainer}>
                 <BiUpArrow className='arrowUp'/>
                    <h4>{page}</h4>
                    <div className='subList-container'>
@@ -96,18 +96,18 @@ useEffect(() => {
 
                 </div>
 
-                <div className='img-container'>
-                    <img src={HomeImg} alt="" />
+            <div className='img-container'>
+               <img src={HomeImg} alt="" />
               
-                </div>
+            </div>
              <button className='btn'>Signin</button>
               
              
-                <GiHamburgerMenu className='GiHamburgerMenu' onClick={openSideBarMenu}/>
-            </div>
+            <GiHamburgerMenu className='GiHamburgerMenu' onClick={openSideBarMenu}/>
+        </div>
        
            
-            <div className='tect-container' onMouseOut={hideSubMenu}>
+        <div className='tect-container' onMouseOut={hideSubMenu}>
         
                
             <div classList='text-container-wrapper'>
@@ -126,11 +126,11 @@ useEffect(() => {
                  < button className='btn2'>Start Now</button>
              </div>
              
-            </div>
+        </div>
           
 
-     
-        <Sidebar/>
+      <Sidebar />
+        
 
 
         </section>
