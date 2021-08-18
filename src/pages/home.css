@@ -298,36 +298,3 @@
     font-size: 40px;
   }
 }
-@media (max-width: 400px) {
-  .tect-container {
-    width: 90%;
-    align-items: center;
-    padding: 0 0px;
-    left: 0px;
-  }
-  .tect-container h2 {
-    font-size: 40px;
-  }
-  .title {
-    font-size: 30px;
-  }
-  .tect-container p {
-    font-size: 17px;
-  }
-  .header {
-    align-items: center;
-    flex-direction: column;
-    margin-top: 40px;
-  }
-  .GiHamburgerMenu {
-    cursor: pointer;
-    font-size: 40px;
-  }
-  .btn2 {
-    font-size: 25px;
-    margin-top: 70px;
-    width: 60%;
-    padding-bottom: 8px;
-    padding-top: 8px;
-  }
-}
