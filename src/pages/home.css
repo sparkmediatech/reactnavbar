@@ -298,7 +298,7 @@
     font-size: 40px;
   }
 }
-@media (max-width: 320px) {
+@media (min-width: 320px) {
   .tect-container {
     width: 90%;
     align-items: center;
