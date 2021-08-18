@@ -224,6 +224,7 @@
 .sidebar-main {
   display: none;
 }
+
 /* Tablet*/
 @media (max-width: 768px) {
   .img-container {
