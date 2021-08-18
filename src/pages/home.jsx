@@ -100,7 +100,7 @@ useEffect(() => {
                     <img src={HomeImg} alt="" />
               
                 </div>
-                <button className='btn'>Signin</button>
+             <button className='btn'>Signin</button>
               
              
                 <GiHamburgerMenu className='GiHamburgerMenu' onClick={openSideBarMenu}/>
@@ -130,7 +130,7 @@ useEffect(() => {
           
 
      
-        
+        <Sidebar/>
 
 
         </section>
